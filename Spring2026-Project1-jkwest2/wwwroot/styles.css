@@ -21,7 +21,7 @@
   height: 220px;
   object-fit: cover;
   border-radius: 50%;         
-    border: 3px solid #f5f5f5;
+  border: 3px solid #f5f5f5;
 }
 
 #Trailer {
@@ -35,15 +35,15 @@
     margin: 0;
 }
 
-    #Actors li {
-        padding: 4px 0;
-    }
+#Actors li {
+    padding: 4px 0;
+}
 
 a {
     color: #7dd3fc;
     text-decoration: none;
 }
 
-    a:hover {
-        text-decoration: underline;
-    }
+a:hover {
+    text-decoration: underline;
+}
